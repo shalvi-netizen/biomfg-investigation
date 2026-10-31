@@ -1,0 +1,1402 @@
+[
+ {
+  "batch_id": "B0000",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.797,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0262
+ },
+ {
+  "batch_id": "B0001",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.814,
+  "onset_hour": 35,
+  "_ph_true_end": 6.7541
+ },
+ {
+  "batch_id": "B0002",
+  "true_cause": "temperature_excursion",
+  "severity": 0.361,
+  "onset_hour": 209,
+  "_ph_true_end": 7.0074
+ },
+ {
+  "batch_id": "B0003",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.297,
+  "onset_hour": 0,
+  "_ph_true_end": 7.015
+ },
+ {
+  "batch_id": "B0004",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.773,
+  "onset_hour": 36,
+  "_ph_true_end": 6.7822
+ },
+ {
+  "batch_id": "B0005",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.257,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9724
+ },
+ {
+  "batch_id": "B0006",
+  "true_cause": "temperature_excursion",
+  "severity": 0.45,
+  "onset_hour": 107,
+  "_ph_true_end": 6.9586
+ },
+ {
+  "batch_id": "B0007",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.568,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9849
+ },
+ {
+  "batch_id": "B0008",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.914,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9764
+ },
+ {
+  "batch_id": "B0009",
+  "true_cause": "temperature_excursion",
+  "severity": 0.567,
+  "onset_hour": 179,
+  "_ph_true_end": 7.0342
+ },
+ {
+  "batch_id": "B0010",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.426,
+  "onset_hour": 114,
+  "_ph_true_end": 6.9247
+ },
+ {
+  "batch_id": "B0011",
+  "true_cause": "temperature_excursion",
+  "severity": 0.116,
+  "onset_hour": 141,
+  "_ph_true_end": 7.0255
+ },
+ {
+  "batch_id": "B0012",
+  "true_cause": "temperature_excursion",
+  "severity": 0.345,
+  "onset_hour": 143,
+  "_ph_true_end": 7.015
+ },
+ {
+  "batch_id": "B0013",
+  "true_cause": "temperature_excursion",
+  "severity": 0.121,
+  "onset_hour": 147,
+  "_ph_true_end": 6.9945
+ },
+ {
+  "batch_id": "B0014",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.528,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0399
+ },
+ {
+  "batch_id": "B0015",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.336,
+  "onset_hour": 47,
+  "_ph_true_end": 7.0032
+ },
+ {
+  "batch_id": "B0016",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.134,
+  "onset_hour": 0,
+  "_ph_true_end": 6.942
+ },
+ {
+  "batch_id": "B0017",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.289,
+  "onset_hour": 54,
+  "_ph_true_end": 6.8225
+ },
+ {
+  "batch_id": "B0018",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.182,
+  "onset_hour": 92,
+  "_ph_true_end": 7.0281
+ },
+ {
+  "batch_id": "B0019",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.525,
+  "onset_hour": 117,
+  "_ph_true_end": 6.9882
+ },
+ {
+  "batch_id": "B0020",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.674,
+  "onset_hour": 62,
+  "_ph_true_end": 6.9558
+ },
+ {
+  "batch_id": "B0021",
+  "true_cause": "mixing_failure",
+  "severity": 0.159,
+  "onset_hour": 71,
+  "_ph_true_end": 6.9796
+ },
+ {
+  "batch_id": "B0022",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.3,
+  "onset_hour": 103,
+  "_ph_true_end": 7.0375
+ },
+ {
+  "batch_id": "B0023",
+  "true_cause": "temperature_excursion",
+  "severity": 0.559,
+  "onset_hour": 116,
+  "_ph_true_end": 6.9933
+ },
+ {
+  "batch_id": "B0024",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.898,
+  "onset_hour": 86,
+  "_ph_true_end": 6.9919
+ },
+ {
+  "batch_id": "B0025",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.963,
+  "onset_hour": 61,
+  "_ph_true_end": 6.7053
+ },
+ {
+  "batch_id": "B0026",
+  "true_cause": "temperature_excursion",
+  "severity": 0.641,
+  "onset_hour": 80,
+  "_ph_true_end": 6.9927
+ },
+ {
+  "batch_id": "B0027",
+  "true_cause": "mixing_failure",
+  "severity": 0.158,
+  "onset_hour": 109,
+  "_ph_true_end": 6.9432
+ },
+ {
+  "batch_id": "B0028",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.109,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0079
+ },
+ {
+  "batch_id": "B0029",
+  "true_cause": "mixing_failure",
+  "severity": 0.715,
+  "onset_hour": 119,
+  "_ph_true_end": 6.9921
+ },
+ {
+  "batch_id": "B0030",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.621,
+  "onset_hour": 33,
+  "_ph_true_end": 6.7663
+ },
+ {
+  "batch_id": "B0031",
+  "true_cause": "mixing_failure",
+  "severity": 0.625,
+  "onset_hour": 96,
+  "_ph_true_end": 7.0061
+ },
+ {
+  "batch_id": "B0032",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.489,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9888
+ },
+ {
+  "batch_id": "B0033",
+  "true_cause": "temperature_excursion",
+  "severity": 0.5,
+  "onset_hour": 102,
+  "_ph_true_end": 6.9392
+ },
+ {
+  "batch_id": "B0034",
+  "true_cause": "temperature_excursion",
+  "severity": 0.652,
+  "onset_hour": 128,
+  "_ph_true_end": 6.9775
+ },
+ {
+  "batch_id": "B0035",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.141,
+  "onset_hour": 118,
+  "_ph_true_end": 6.9551
+ },
+ {
+  "batch_id": "B0036",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.249,
+  "onset_hour": 61,
+  "_ph_true_end": 6.8704
+ },
+ {
+  "batch_id": "B0037",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.262,
+  "onset_hour": 37,
+  "_ph_true_end": 6.9873
+ },
+ {
+  "batch_id": "B0038",
+  "true_cause": "mixing_failure",
+  "severity": 0.738,
+  "onset_hour": 116,
+  "_ph_true_end": 7.0125
+ },
+ {
+  "batch_id": "B0039",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.78,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9882
+ },
+ {
+  "batch_id": "B0040",
+  "true_cause": "mixing_failure",
+  "severity": 0.44,
+  "onset_hour": 89,
+  "_ph_true_end": 6.9725
+ },
+ {
+  "batch_id": "B0041",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.314,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9683
+ },
+ {
+  "batch_id": "B0042",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.666,
+  "onset_hour": 26,
+  "_ph_true_end": 6.9783
+ },
+ {
+  "batch_id": "B0043",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.166,
+  "onset_hour": 73,
+  "_ph_true_end": 6.9604
+ },
+ {
+  "batch_id": "B0044",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.844,
+  "onset_hour": 61,
+  "_ph_true_end": 6.9903
+ },
+ {
+  "batch_id": "B0045",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.111,
+  "onset_hour": 68,
+  "_ph_true_end": 6.8693
+ },
+ {
+  "batch_id": "B0046",
+  "true_cause": "mixing_failure",
+  "severity": 0.825,
+  "onset_hour": 144,
+  "_ph_true_end": 6.9736
+ },
+ {
+  "batch_id": "B0047",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.742,
+  "onset_hour": 45,
+  "_ph_true_end": 6.7139
+ },
+ {
+  "batch_id": "B0048",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.468,
+  "onset_hour": 28,
+  "_ph_true_end": 6.7949
+ },
+ {
+  "batch_id": "B0049",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.222,
+  "onset_hour": 45,
+  "_ph_true_end": 6.8723
+ },
+ {
+  "batch_id": "B0050",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.615,
+  "onset_hour": 48,
+  "_ph_true_end": 6.7529
+ },
+ {
+  "batch_id": "B0051",
+  "true_cause": "temperature_excursion",
+  "severity": 0.61,
+  "onset_hour": 135,
+  "_ph_true_end": 7.0259
+ },
+ {
+  "batch_id": "B0052",
+  "true_cause": "mixing_failure",
+  "severity": 0.823,
+  "onset_hour": 96,
+  "_ph_true_end": 7.0115
+ },
+ {
+  "batch_id": "B0053",
+  "true_cause": "temperature_excursion",
+  "severity": 0.748,
+  "onset_hour": 182,
+  "_ph_true_end": 6.99
+ },
+ {
+  "batch_id": "B0054",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.502,
+  "onset_hour": 42,
+  "_ph_true_end": 6.9785
+ },
+ {
+  "batch_id": "B0055",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.532,
+  "onset_hour": 88,
+  "_ph_true_end": 6.9859
+ },
+ {
+  "batch_id": "B0056",
+  "true_cause": "mixing_failure",
+  "severity": 0.257,
+  "onset_hour": 100,
+  "_ph_true_end": 7.0241
+ },
+ {
+  "batch_id": "B0057",
+  "true_cause": "temperature_excursion",
+  "severity": 0.429,
+  "onset_hour": 91,
+  "_ph_true_end": 6.9862
+ },
+ {
+  "batch_id": "B0058",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.555,
+  "onset_hour": 0,
+  "_ph_true_end": 6.961
+ },
+ {
+  "batch_id": "B0059",
+  "true_cause": "mixing_failure",
+  "severity": 0.977,
+  "onset_hour": 92,
+  "_ph_true_end": 6.975
+ },
+ {
+  "batch_id": "B0060",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.242,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0209
+ },
+ {
+  "batch_id": "B0061",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.914,
+  "onset_hour": 37,
+  "_ph_true_end": 6.6798
+ },
+ {
+  "batch_id": "B0062",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.152,
+  "onset_hour": 70,
+  "_ph_true_end": 6.8745
+ },
+ {
+  "batch_id": "B0063",
+  "true_cause": "temperature_excursion",
+  "severity": 0.427,
+  "onset_hour": 136,
+  "_ph_true_end": 6.9997
+ },
+ {
+  "batch_id": "B0064",
+  "true_cause": "temperature_excursion",
+  "severity": 0.737,
+  "onset_hour": 119,
+  "_ph_true_end": 7.0217
+ },
+ {
+  "batch_id": "B0065",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.262,
+  "onset_hour": 73,
+  "_ph_true_end": 6.9551
+ },
+ {
+  "batch_id": "B0066",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.401,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0037
+ },
+ {
+  "batch_id": "B0067",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.592,
+  "onset_hour": 43,
+  "_ph_true_end": 6.7379
+ },
+ {
+  "batch_id": "B0068",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.596,
+  "onset_hour": 61,
+  "_ph_true_end": 7.036
+ },
+ {
+  "batch_id": "B0069",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.276,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9749
+ },
+ {
+  "batch_id": "B0070",
+  "true_cause": "temperature_excursion",
+  "severity": 0.944,
+  "onset_hour": 85,
+  "_ph_true_end": 7.0178
+ },
+ {
+  "batch_id": "B0071",
+  "true_cause": "mixing_failure",
+  "severity": 0.445,
+  "onset_hour": 75,
+  "_ph_true_end": 6.944
+ },
+ {
+  "batch_id": "B0072",
+  "true_cause": "temperature_excursion",
+  "severity": 0.487,
+  "onset_hour": 96,
+  "_ph_true_end": 6.956
+ },
+ {
+  "batch_id": "B0073",
+  "true_cause": "temperature_excursion",
+  "severity": 0.204,
+  "onset_hour": 205,
+  "_ph_true_end": 6.9709
+ },
+ {
+  "batch_id": "B0074",
+  "true_cause": "temperature_excursion",
+  "severity": 0.549,
+  "onset_hour": 173,
+  "_ph_true_end": 7.0044
+ },
+ {
+  "batch_id": "B0075",
+  "true_cause": "temperature_excursion",
+  "severity": 0.235,
+  "onset_hour": 113,
+  "_ph_true_end": 6.9913
+ },
+ {
+  "batch_id": "B0076",
+  "true_cause": "temperature_excursion",
+  "severity": 0.879,
+  "onset_hour": 78,
+  "_ph_true_end": 7.0147
+ },
+ {
+  "batch_id": "B0077",
+  "true_cause": "temperature_excursion",
+  "severity": 0.108,
+  "onset_hour": 178,
+  "_ph_true_end": 6.9854
+ },
+ {
+  "batch_id": "B0078",
+  "true_cause": "mixing_failure",
+  "severity": 0.484,
+  "onset_hour": 134,
+  "_ph_true_end": 6.9552
+ },
+ {
+  "batch_id": "B0079",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.492,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0232
+ },
+ {
+  "batch_id": "B0080",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.346,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9629
+ },
+ {
+  "batch_id": "B0081",
+  "true_cause": "mixing_failure",
+  "severity": 0.168,
+  "onset_hour": 139,
+  "_ph_true_end": 6.9837
+ },
+ {
+  "batch_id": "B0082",
+  "true_cause": "mixing_failure",
+  "severity": 0.577,
+  "onset_hour": 54,
+  "_ph_true_end": 6.9336
+ },
+ {
+  "batch_id": "B0083",
+  "true_cause": "mixing_failure",
+  "severity": 0.109,
+  "onset_hour": 134,
+  "_ph_true_end": 7.0333
+ },
+ {
+  "batch_id": "B0084",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.758,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0018
+ },
+ {
+  "batch_id": "B0085",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.781,
+  "onset_hour": 24,
+  "_ph_true_end": 6.9461
+ },
+ {
+  "batch_id": "B0086",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.764,
+  "onset_hour": 0,
+  "_ph_true_end": 7.013
+ },
+ {
+  "batch_id": "B0087",
+  "true_cause": "mixing_failure",
+  "severity": 0.674,
+  "onset_hour": 133,
+  "_ph_true_end": 6.9738
+ },
+ {
+  "batch_id": "B0088",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.373,
+  "onset_hour": 63,
+  "_ph_true_end": 6.7972
+ },
+ {
+  "batch_id": "B0089",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.47,
+  "onset_hour": 51,
+  "_ph_true_end": 6.8017
+ },
+ {
+  "batch_id": "B0090",
+  "true_cause": "temperature_excursion",
+  "severity": 0.867,
+  "onset_hour": 75,
+  "_ph_true_end": 6.9663
+ },
+ {
+  "batch_id": "B0091",
+  "true_cause": "mixing_failure",
+  "severity": 0.794,
+  "onset_hour": 76,
+  "_ph_true_end": 6.968
+ },
+ {
+  "batch_id": "B0092",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.631,
+  "onset_hour": 103,
+  "_ph_true_end": 6.9666
+ },
+ {
+  "batch_id": "B0093",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.37,
+  "onset_hour": 54,
+  "_ph_true_end": 6.8053
+ },
+ {
+  "batch_id": "B0094",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.597,
+  "onset_hour": 74,
+  "_ph_true_end": 6.9658
+ },
+ {
+  "batch_id": "B0095",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.854,
+  "onset_hour": 98,
+  "_ph_true_end": 6.9927
+ },
+ {
+  "batch_id": "B0096",
+  "true_cause": "mixing_failure",
+  "severity": 0.17,
+  "onset_hour": 93,
+  "_ph_true_end": 6.972
+ },
+ {
+  "batch_id": "B0097",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.975,
+  "onset_hour": 97,
+  "_ph_true_end": 6.9676
+ },
+ {
+  "batch_id": "B0098",
+  "true_cause": "mixing_failure",
+  "severity": 0.763,
+  "onset_hour": 133,
+  "_ph_true_end": 7.0113
+ },
+ {
+  "batch_id": "B0099",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.73,
+  "onset_hour": 33,
+  "_ph_true_end": 6.7972
+ },
+ {
+  "batch_id": "B0100",
+  "true_cause": "temperature_excursion",
+  "severity": 0.646,
+  "onset_hour": 206,
+  "_ph_true_end": 7.0202
+ },
+ {
+  "batch_id": "B0101",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.883,
+  "onset_hour": 44,
+  "_ph_true_end": 6.9507
+ },
+ {
+  "batch_id": "B0102",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.767,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0215
+ },
+ {
+  "batch_id": "B0103",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.532,
+  "onset_hour": 110,
+  "_ph_true_end": 7.0015
+ },
+ {
+  "batch_id": "B0104",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.3,
+  "onset_hour": 37,
+  "_ph_true_end": 6.8365
+ },
+ {
+  "batch_id": "B0105",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.423,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9855
+ },
+ {
+  "batch_id": "B0106",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.714,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9538
+ },
+ {
+  "batch_id": "B0107",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.503,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9757
+ },
+ {
+  "batch_id": "B0108",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.326,
+  "onset_hour": 67,
+  "_ph_true_end": 6.9795
+ },
+ {
+  "batch_id": "B0109",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.756,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0027
+ },
+ {
+  "batch_id": "B0110",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.608,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0367
+ },
+ {
+  "batch_id": "B0111",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.74,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0622
+ },
+ {
+  "batch_id": "B0112",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.119,
+  "onset_hour": 33,
+  "_ph_true_end": 6.8857
+ },
+ {
+  "batch_id": "B0113",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.314,
+  "onset_hour": 67,
+  "_ph_true_end": 6.8616
+ },
+ {
+  "batch_id": "B0114",
+  "true_cause": "temperature_excursion",
+  "severity": 0.424,
+  "onset_hour": 141,
+  "_ph_true_end": 7.0117
+ },
+ {
+  "batch_id": "B0115",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.762,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9897
+ },
+ {
+  "batch_id": "B0116",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.707,
+  "onset_hour": 104,
+  "_ph_true_end": 6.9889
+ },
+ {
+  "batch_id": "B0117",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.332,
+  "onset_hour": 57,
+  "_ph_true_end": 6.8533
+ },
+ {
+  "batch_id": "B0118",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.318,
+  "onset_hour": 36,
+  "_ph_true_end": 6.9548
+ },
+ {
+  "batch_id": "B0119",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.182,
+  "onset_hour": 85,
+  "_ph_true_end": 6.9963
+ },
+ {
+  "batch_id": "B0120",
+  "true_cause": "mixing_failure",
+  "severity": 0.694,
+  "onset_hour": 64,
+  "_ph_true_end": 6.9682
+ },
+ {
+  "batch_id": "B0121",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.712,
+  "onset_hour": 45,
+  "_ph_true_end": 6.7087
+ },
+ {
+  "batch_id": "B0122",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.769,
+  "onset_hour": 29,
+  "_ph_true_end": 7.0325
+ },
+ {
+  "batch_id": "B0123",
+  "true_cause": "mixing_failure",
+  "severity": 0.951,
+  "onset_hour": 62,
+  "_ph_true_end": 6.9487
+ },
+ {
+  "batch_id": "B0124",
+  "true_cause": "temperature_excursion",
+  "severity": 0.735,
+  "onset_hour": 189,
+  "_ph_true_end": 7.0196
+ },
+ {
+  "batch_id": "B0125",
+  "true_cause": "mixing_failure",
+  "severity": 0.955,
+  "onset_hour": 95,
+  "_ph_true_end": 6.9921
+ },
+ {
+  "batch_id": "B0126",
+  "true_cause": "temperature_excursion",
+  "severity": 0.656,
+  "onset_hour": 115,
+  "_ph_true_end": 6.9873
+ },
+ {
+  "batch_id": "B0127",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.749,
+  "onset_hour": 37,
+  "_ph_true_end": 6.7166
+ },
+ {
+  "batch_id": "B0128",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.608,
+  "onset_hour": 70,
+  "_ph_true_end": 6.9951
+ },
+ {
+  "batch_id": "B0129",
+  "true_cause": "temperature_excursion",
+  "severity": 0.987,
+  "onset_hour": 132,
+  "_ph_true_end": 7.0041
+ },
+ {
+  "batch_id": "B0130",
+  "true_cause": "mixing_failure",
+  "severity": 0.161,
+  "onset_hour": 92,
+  "_ph_true_end": 6.9995
+ },
+ {
+  "batch_id": "B0131",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.364,
+  "onset_hour": 42,
+  "_ph_true_end": 6.9392
+ },
+ {
+  "batch_id": "B0132",
+  "true_cause": "temperature_excursion",
+  "severity": 0.765,
+  "onset_hour": 104,
+  "_ph_true_end": 7.0144
+ },
+ {
+  "batch_id": "B0133",
+  "true_cause": "mixing_failure",
+  "severity": 0.1,
+  "onset_hour": 71,
+  "_ph_true_end": 6.9729
+ },
+ {
+  "batch_id": "B0134",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.172,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0231
+ },
+ {
+  "batch_id": "B0135",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.159,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9462
+ },
+ {
+  "batch_id": "B0136",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.38,
+  "onset_hour": 0,
+  "_ph_true_end": 7.017
+ },
+ {
+  "batch_id": "B0137",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.925,
+  "onset_hour": 77,
+  "_ph_true_end": 7.0086
+ },
+ {
+  "batch_id": "B0138",
+  "true_cause": "temperature_excursion",
+  "severity": 0.53,
+  "onset_hour": 110,
+  "_ph_true_end": 6.9573
+ },
+ {
+  "batch_id": "B0139",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.213,
+  "onset_hour": 47,
+  "_ph_true_end": 6.8945
+ },
+ {
+  "batch_id": "B0140",
+  "true_cause": "temperature_excursion",
+  "severity": 0.365,
+  "onset_hour": 120,
+  "_ph_true_end": 6.9868
+ },
+ {
+  "batch_id": "B0141",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.696,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0143
+ },
+ {
+  "batch_id": "B0142",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.61,
+  "onset_hour": 0,
+  "_ph_true_end": 7.027
+ },
+ {
+  "batch_id": "B0143",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.683,
+  "onset_hour": 54,
+  "_ph_true_end": 6.7754
+ },
+ {
+  "batch_id": "B0144",
+  "true_cause": "temperature_excursion",
+  "severity": 0.458,
+  "onset_hour": 178,
+  "_ph_true_end": 6.9953
+ },
+ {
+  "batch_id": "B0145",
+  "true_cause": "mixing_failure",
+  "severity": 0.75,
+  "onset_hour": 113,
+  "_ph_true_end": 6.9412
+ },
+ {
+  "batch_id": "B0146",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.286,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0131
+ },
+ {
+  "batch_id": "B0147",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.285,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9388
+ },
+ {
+  "batch_id": "B0148",
+  "true_cause": "mixing_failure",
+  "severity": 0.802,
+  "onset_hour": 143,
+  "_ph_true_end": 6.9801
+ },
+ {
+  "batch_id": "B0149",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.479,
+  "onset_hour": 53,
+  "_ph_true_end": 6.7511
+ },
+ {
+  "batch_id": "B0150",
+  "true_cause": "mixing_failure",
+  "severity": 0.37,
+  "onset_hour": 115,
+  "_ph_true_end": 6.9922
+ },
+ {
+  "batch_id": "B0151",
+  "true_cause": "mixing_failure",
+  "severity": 0.53,
+  "onset_hour": 105,
+  "_ph_true_end": 6.9622
+ },
+ {
+  "batch_id": "B0152",
+  "true_cause": "temperature_excursion",
+  "severity": 0.189,
+  "onset_hour": 96,
+  "_ph_true_end": 6.9498
+ },
+ {
+  "batch_id": "B0153",
+  "true_cause": "mixing_failure",
+  "severity": 0.814,
+  "onset_hour": 72,
+  "_ph_true_end": 6.9708
+ },
+ {
+  "batch_id": "B0154",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.469,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9813
+ },
+ {
+  "batch_id": "B0155",
+  "true_cause": "temperature_excursion",
+  "severity": 0.779,
+  "onset_hour": 88,
+  "_ph_true_end": 7.0005
+ },
+ {
+  "batch_id": "B0156",
+  "true_cause": "temperature_excursion",
+  "severity": 0.967,
+  "onset_hour": 164,
+  "_ph_true_end": 7.018
+ },
+ {
+  "batch_id": "B0157",
+  "true_cause": "mixing_failure",
+  "severity": 0.39,
+  "onset_hour": 149,
+  "_ph_true_end": 6.9626
+ },
+ {
+  "batch_id": "B0158",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.343,
+  "onset_hour": 48,
+  "_ph_true_end": 6.8445
+ },
+ {
+  "batch_id": "B0159",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.459,
+  "onset_hour": 0,
+  "_ph_true_end": 7.01
+ },
+ {
+  "batch_id": "B0160",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.312,
+  "onset_hour": 102,
+  "_ph_true_end": 6.9747
+ },
+ {
+  "batch_id": "B0161",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.91,
+  "onset_hour": 45,
+  "_ph_true_end": 6.6901
+ },
+ {
+  "batch_id": "B0162",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.709,
+  "onset_hour": 0,
+  "_ph_true_end": 7.003
+ },
+ {
+  "batch_id": "B0163",
+  "true_cause": "mixing_failure",
+  "severity": 0.12,
+  "onset_hour": 146,
+  "_ph_true_end": 6.9399
+ },
+ {
+  "batch_id": "B0164",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.764,
+  "onset_hour": 45,
+  "_ph_true_end": 6.731
+ },
+ {
+  "batch_id": "B0165",
+  "true_cause": "temperature_excursion",
+  "severity": 0.395,
+  "onset_hour": 135,
+  "_ph_true_end": 7.023
+ },
+ {
+  "batch_id": "B0166",
+  "true_cause": "mixing_failure",
+  "severity": 0.203,
+  "onset_hour": 63,
+  "_ph_true_end": 6.9771
+ },
+ {
+  "batch_id": "B0167",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.851,
+  "onset_hour": 99,
+  "_ph_true_end": 6.977
+ },
+ {
+  "batch_id": "B0168",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.812,
+  "onset_hour": 53,
+  "_ph_true_end": 6.7072
+ },
+ {
+  "batch_id": "B0169",
+  "true_cause": "mixing_failure",
+  "severity": 0.171,
+  "onset_hour": 57,
+  "_ph_true_end": 6.9637
+ },
+ {
+  "batch_id": "B0170",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.774,
+  "onset_hour": 61,
+  "_ph_true_end": 6.954
+ },
+ {
+  "batch_id": "B0171",
+  "true_cause": "mixing_failure",
+  "severity": 0.346,
+  "onset_hour": 58,
+  "_ph_true_end": 6.9487
+ },
+ {
+  "batch_id": "B0172",
+  "true_cause": "mixing_failure",
+  "severity": 0.145,
+  "onset_hour": 52,
+  "_ph_true_end": 6.9983
+ },
+ {
+  "batch_id": "B0173",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.695,
+  "onset_hour": 0,
+  "_ph_true_end": 6.9777
+ },
+ {
+  "batch_id": "B0174",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.999,
+  "onset_hour": 69,
+  "_ph_true_end": 6.6954
+ },
+ {
+  "batch_id": "B0175",
+  "true_cause": "temperature_excursion",
+  "severity": 0.606,
+  "onset_hour": 153,
+  "_ph_true_end": 6.976
+ },
+ {
+  "batch_id": "B0176",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.339,
+  "onset_hour": 114,
+  "_ph_true_end": 6.9906
+ },
+ {
+  "batch_id": "B0177",
+  "true_cause": "mixing_failure",
+  "severity": 0.818,
+  "onset_hour": 131,
+  "_ph_true_end": 7.0043
+ },
+ {
+  "batch_id": "B0178",
+  "true_cause": "temperature_excursion",
+  "severity": 0.358,
+  "onset_hour": 208,
+  "_ph_true_end": 6.982
+ },
+ {
+  "batch_id": "B0179",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.742,
+  "onset_hour": 66,
+  "_ph_true_end": 7.0499
+ },
+ {
+  "batch_id": "B0180",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.748,
+  "onset_hour": 24,
+  "_ph_true_end": 6.7558
+ },
+ {
+  "batch_id": "B0181",
+  "true_cause": "temperature_excursion",
+  "severity": 0.695,
+  "onset_hour": 118,
+  "_ph_true_end": 7.0604
+ },
+ {
+  "batch_id": "B0182",
+  "true_cause": "mixing_failure",
+  "severity": 0.318,
+  "onset_hour": 92,
+  "_ph_true_end": 7.0035
+ },
+ {
+  "batch_id": "B0183",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.256,
+  "onset_hour": 52,
+  "_ph_true_end": 6.8793
+ },
+ {
+  "batch_id": "B0184",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.194,
+  "onset_hour": 94,
+  "_ph_true_end": 7.002
+ },
+ {
+  "batch_id": "B0185",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.822,
+  "onset_hour": 55,
+  "_ph_true_end": 6.732
+ },
+ {
+  "batch_id": "B0186",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.285,
+  "onset_hour": 92,
+  "_ph_true_end": 7.0046
+ },
+ {
+  "batch_id": "B0187",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.656,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0089
+ },
+ {
+  "batch_id": "B0188",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.164,
+  "onset_hour": 54,
+  "_ph_true_end": 6.89
+ },
+ {
+  "batch_id": "B0189",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.872,
+  "onset_hour": 76,
+  "_ph_true_end": 6.9788
+ },
+ {
+  "batch_id": "B0190",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.322,
+  "onset_hour": 68,
+  "_ph_true_end": 6.8256
+ },
+ {
+  "batch_id": "B0191",
+  "true_cause": "low_viability_inoculum",
+  "severity": 0.819,
+  "onset_hour": 0,
+  "_ph_true_end": 7.0093
+ },
+ {
+  "batch_id": "B0192",
+  "true_cause": "mixing_failure",
+  "severity": 0.603,
+  "onset_hour": 84,
+  "_ph_true_end": 7.003
+ },
+ {
+  "batch_id": "B0193",
+  "true_cause": "temperature_excursion",
+  "severity": 0.503,
+  "onset_hour": 86,
+  "_ph_true_end": 7.0009
+ },
+ {
+  "batch_id": "B0194",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.608,
+  "onset_hour": 60,
+  "_ph_true_end": 6.7695
+ },
+ {
+  "batch_id": "B0195",
+  "true_cause": "ph_sensor_drift",
+  "severity": 0.933,
+  "onset_hour": 34,
+  "_ph_true_end": 7.0122
+ },
+ {
+  "batch_id": "B0196",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.272,
+  "onset_hour": 70,
+  "_ph_true_end": 6.9117
+ },
+ {
+  "batch_id": "B0197",
+  "true_cause": "contaminated_raw_material",
+  "severity": 0.496,
+  "onset_hour": 31,
+  "_ph_true_end": 6.8209
+ },
+ {
+  "batch_id": "B0198",
+  "true_cause": "mixing_failure",
+  "severity": 0.755,
+  "onset_hour": 133,
+  "_ph_true_end": 6.9803
+ },
+ {
+  "batch_id": "B0199",
+  "true_cause": "mixing_failure",
+  "severity": 0.835,
+  "onset_hour": 112,
+  "_ph_true_end": 6.9889
+ }
+]
